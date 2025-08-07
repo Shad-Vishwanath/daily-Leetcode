@@ -34,6 +34,20 @@ Solving 2 problems every day to build consistency, problem-solving skills, and d
 
 ---
 
+## 📅 Day 3 – August 7, 2025
+
+### ✅ Problem 1: Find the Maximum Number of Fruits Collected
+- [LeetCode Link](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)
+- **Concepts**: Dynamic Programming, Grid Traversal, 2D DP
+- **Status**: ✅ Solved
+- ⏱️ Runtime: 1894 ms | 💾 Memory: 51.57 MB (Beats 100%)
+
+✅ Problem 2: Fruit Into Baskets
+- [LeetCode Link](https://leetcode.com/problems/fruit-into-baskets/)
+- **Concepts**: Sliding Window, Hash Map
+- **Status**: ✅ Solved
+- ⏱️ Runtime: 219 ms (Beats 52.97%) | 💾 Memory: 16.75 MB
+
 🔗 [View all problems day-wise](./)
 
 📌 Stay consistent. Keep solving. 💪
