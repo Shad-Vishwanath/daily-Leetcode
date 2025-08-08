@@ -48,6 +48,22 @@ Solving 2 problems every day to build consistency, problem-solving skills, and d
 - **Status**: ✅ Solved
 - ⏱️ Runtime: 219 ms (Beats 52.97%) | 💾 Memory: 16.75 MB
 
+---
+
+## 📅 Day 4 – August 8, 2025
+
+### ✅ Problem 1: Soup Servings
+- **Concepts:** Recursion, Memoization, Probability
+- **Approach:** Simulated soup serving operations with recursion and used memoization to avoid redundant calculations. Handled base cases for when one or both soups are depleted.
+- **Stats:** Runtime – 1166 ms | Memory – 172.64 MB
+- **[View Code](./Day4/problem1.md)**
+
+### ✅ Problem 2: Pascal's Triangle
+- **Concepts:** Dynamic Programming, Combinatorics
+- **Approach:** Built Pascal's Triangle row-by-row using bottom-up DP. Each row starts/ends with `1` and inner elements are sums of two numbers from the previous row.
+- **Stats:** Runtime – 0 ms (💯% beat) | Memory – 12.48 MB
+- **[View Code](./Day4/problem2.md)**
+
 🔗 [View all problems day-wise](./)
 
 📌 Stay consistent. Keep solving. 💪
