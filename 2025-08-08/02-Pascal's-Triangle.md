@@ -22,6 +22,6 @@ class Solution(object):
         return pascal
 ```
 ## **Stats:**
-- Runtime: 1166 ms
-- Memory: 172.64 MB
+- Runtime: 0 ms (💯% beat)
+- Memory: 12.48 MB
 
